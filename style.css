@@ -1,0 +1,43 @@
+/*body{
+    background-color: RED;
+}*/
+#resumeForm{
+   display: block;
+}
+#resumeTemplate{
+    /*display: none;*/
+    margin: 50px 25px 25px 150px;
+    border-style: solid;
+    position: relative;
+}
+/*#personal{
+    position:absolute;
+}*/
+a {
+    color:#21618C;
+    font-size: 15px;
+  }
+  
+
+.myimg{
+    border:2px solid rgba(11, 5, 24, 0.169);
+    border-radius:  50%;
+    width : 200Px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.background{
+    background-color:#45B39D ;
+    font-size: medium;
+    font-family: 'Times New Roman';
+}
+
+    
+i{
+    font-size: 20px;
+    cursor: pointer;
+    gap:1rem ;
+    position:relative;
+    
+}
